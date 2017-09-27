@@ -13,6 +13,8 @@ patches-own [
 ;;; Setup procedures ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;
 
+; test
+
 to setup
   __clear-all-and-reset-ticks
   set-default-shape turtles "bug"
